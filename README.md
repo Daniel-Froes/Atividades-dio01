@@ -1,3 +1,3 @@
-# Atividade-dio01
+# Atividades-dio01
 
 ### Olá mundo!
